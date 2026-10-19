@@ -17,6 +17,7 @@
 ## 项目
 
 - **[monopoly-web](https://github.com/MM121202/monopoly-web)**　纯前端大富翁：标准 40 格规则、AI 对手、零依赖零构建，浏览器打开即玩
+- **[fireboy-watergirl](https://github.com/MM121202/fireboy-watergirl)**　森林冰火人：双人合作平台游戏，非对称死亡规则 + 压力板机关，含关卡自动验证
 
 ## 联系
 
